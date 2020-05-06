@@ -1,7 +1,6 @@
 name: multiple_checkboxes_formfield
 description: Custom FormField with Multiple Checkboxes
 version: 0.0.1
-author: ChangJoo Park<pcjpcj2@gmail.com>
 homepage: https://github.com/ChangJoo-Park/multiple_checkbox_form_field
 
 environment:
